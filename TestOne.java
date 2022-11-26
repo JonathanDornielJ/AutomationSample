@@ -35,9 +35,9 @@ public class TestOne extends BaseTest {
 		mapOne.put("email", "jona@gmail.com");
 
 		HashMap<String, String> mapTwo = new HashMap<>();
-		mapTwo.put("name", "Amanda");
+		mapTwo.put("name", "Josana");
 		mapTwo.put("gender", "f");
-		mapTwo.put("email", "amanda@yahoo.com");
+		mapTwo.put("email", "josana@yahoo.com");
 
 		return new Object[][] { { mapOne }, { mapTwo } };
 	}
